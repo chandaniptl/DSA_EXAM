@@ -6,7 +6,8 @@ Linked List:
 
 Sorting:
 1. merge sort
-   ![Uploading mergesort.png…]()
+   ![mergesort](https://github.com/user-attachments/assets/05081e47-8abd-4013-9ea2-5809fe1dafdb)
+
 
 2.Quick sort
 ![quicksort](https://github.com/user-attachments/assets/0e0f1785-55b4-4b6f-a1e2-d78c1d7dd9ff)
